@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Naveen A D (aka nzelyn) 👨‍💻
 
-Welcome to my GitHub! I'm a **Cybersecurity Professional** and **Trainer**, passionate about teaching and building in the field of cybersecurity.
+Welcome to my GitHub! I'm a **Cybersecurity Professional** and **Trainer**, passionate about **teaching and building in the field of cybersecurity**.
 
 ---
 
@@ -8,8 +8,8 @@ Welcome to my GitHub! I'm a **Cybersecurity Professional** and **Trainer**, pass
 - 🎓 **BE Graduate** | **PG Diploma in Cybersecurity**
 - 💻 **Cybersecurity Associate @ GA Software Technology**
 - 📚 **Cybersecurity Trainer** | Conducting hands-on workshops & internships
-- 🎯 **Focus Areas:** SOC | Ethical Hacking | Penetration Testing | Secure Development
-- 🗂️ Building resources to help learners understand cybersecurity better
+- 🎯 **Focus Areas:** SOC | Ethical Hacking | Penetration Testing | Secure Development | GRC
+- 🗂️ Building practical resources to help learners master cybersecurity
 
 ---
 
@@ -17,8 +17,8 @@ Welcome to my GitHub! I'm a **Cybersecurity Professional** and **Trainer**, pass
 - ✅ **Ethical Hacking Internship Programs** *(with live TryHackMe labs)*
 - ✅ **Offline SOC Analyst Training**
 - ✅ **Cybersecurity Notes & Practical Guides** *(coming soon on GitHub & Instagram)*
-- ✅ **Workshops & Bootcamps** on offensive and defensive security topics
-- 📌 **Mission:** Help students & professionals build **hands-on skills** in cybersecurity
+- ✅ **Workshops & Bootcamps** on **SOC | VAPT | GRC | Penetration Testing** and more
+- 📌 **Mission:** Help students & professionals build **hands-on skills** in cybersecurity across all fields
 
 ---
 
@@ -43,6 +43,7 @@ Welcome to my GitHub! I'm a **Cybersecurity Professional** and **Trainer**, pass
 - 📧 **Email:** naveenadsince2k2@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/naveenadsince2k2)
 - 📸 [Instagram @Navigtech_](https://www.instagram.com/navigtech_?igsh=eDNhZjVzdmFudzdm) *(Launching Soon: Tutorials, Tips & Labs)*
+- 🎥 [YouTube @Navigtech](https://www.youtube.com/@Navigtech) *(Cybersecurity Training Videos Coming Soon)*
 
 ---
 
